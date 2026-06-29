@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer & ATS Optimizer",
+  "description": "Analyze resumes for content, formatting, and relevance to job descriptions, with an interactive AI bullet polisher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
